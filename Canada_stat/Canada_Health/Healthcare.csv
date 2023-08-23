@@ -1,0 +1,449 @@
+﻿REF_DATE,GEO,DGUID,North American Industry Classification System (NAICS),Summary statistics,UOM,UOM_ID,SCALAR_FACTOR,SCALAR_ID,VECTOR,COORDINATE,VALUE,STATUS,SYMBOL,TERMINATED,DECIMALS
+2014,Canada,2016A000011124,Nursing and residential care facilities [623],Operating revenue,Dollars,81,millions,6,v114809245,1.1.1,15074.2,,,,1
+2014,Canada,2016A000011124,Nursing and residential care facilities [623],Operating expenses,Dollars,81,millions,6,v114809246,1.1.2,14857.6,,,,1
+2014,Canada,2016A000011124,Nursing and residential care facilities [623],"Salaries, wages, commissions and benefits",Dollars,81,millions,6,v114809247,1.1.3,10977.3,,,,1
+2014,Canada,2016A000011124,Nursing and residential care facilities [623],Operating surplus or deficit,Dollars,81,millions,6,v114809248,1.1.4,216.6,,,,1
+2014,Newfoundland and Labrador,2016A000210,Nursing and residential care facilities [623],Operating revenue,Dollars,81,millions,6,v114809249,2.1.1,285.1,,,,1
+2014,Newfoundland and Labrador,2016A000210,Nursing and residential care facilities [623],Operating expenses,Dollars,81,millions,6,v114809250,2.1.2,276.1,,,,1
+2014,Newfoundland and Labrador,2016A000210,Nursing and residential care facilities [623],"Salaries, wages, commissions and benefits",Dollars,81,millions,6,v114809251,2.1.3,228.5,,,,1
+2014,Newfoundland and Labrador,2016A000210,Nursing and residential care facilities [623],Operating surplus or deficit,Dollars,81,millions,6,v114809252,2.1.4,9,,,,1
+2014,Prince Edward Island,2016A000211,Nursing and residential care facilities [623],Operating revenue,Dollars,81,millions,6,v114809253,3.1.1,104.9,,,,1
+2014,Prince Edward Island,2016A000211,Nursing and residential care facilities [623],Operating expenses,Dollars,81,millions,6,v114809254,3.1.2,109.3,,,,1
+2014,Prince Edward Island,2016A000211,Nursing and residential care facilities [623],"Salaries, wages, commissions and benefits",Dollars,81,millions,6,v114809255,3.1.3,92.6,,,,1
+2014,Prince Edward Island,2016A000211,Nursing and residential care facilities [623],Operating surplus or deficit,Dollars,81,millions,6,v114809256,3.1.4,-4.3,,,,1
+2014,Nova Scotia,2016A000212,Nursing and residential care facilities [623],Operating revenue,Dollars,81,millions,6,v114809257,4.1.1,731.2,,,,1
+2014,Nova Scotia,2016A000212,Nursing and residential care facilities [623],Operating expenses,Dollars,81,millions,6,v114809258,4.1.2,686.9,,,,1
+2014,Nova Scotia,2016A000212,Nursing and residential care facilities [623],"Salaries, wages, commissions and benefits",Dollars,81,millions,6,v114809259,4.1.3,581.9,,,,1
+2014,Nova Scotia,2016A000212,Nursing and residential care facilities [623],Operating surplus or deficit,Dollars,81,millions,6,v114809260,4.1.4,44.3,,,,1
+2014,New Brunswick,2016A000213,Nursing and residential care facilities [623],Operating revenue,Dollars,81,millions,6,v114809261,5.1.1,407.8,,,,1
+2014,New Brunswick,2016A000213,Nursing and residential care facilities [623],Operating expenses,Dollars,81,millions,6,v114809262,5.1.2,436,,,,1
+2014,New Brunswick,2016A000213,Nursing and residential care facilities [623],"Salaries, wages, commissions and benefits",Dollars,81,millions,6,v114809263,5.1.3,336.1,,,,1
+2014,New Brunswick,2016A000213,Nursing and residential care facilities [623],Operating surplus or deficit,Dollars,81,millions,6,v114809264,5.1.4,-28.1,,,,1
+2014,Quebec,2016A000224,Nursing and residential care facilities [623],Operating revenue,Dollars,81,millions,6,v114809265,6.1.1,4602.9,,,,1
+2014,Quebec,2016A000224,Nursing and residential care facilities [623],Operating expenses,Dollars,81,millions,6,v114809266,6.1.2,4576.5,,,,1
+2014,Quebec,2016A000224,Nursing and residential care facilities [623],"Salaries, wages, commissions and benefits",Dollars,81,millions,6,v114809267,6.1.3,3194.6,,,,1
+2014,Quebec,2016A000224,Nursing and residential care facilities [623],Operating surplus or deficit,Dollars,81,millions,6,v114809268,6.1.4,26.4,,,,1
+2014,Ontario,2016A000235,Nursing and residential care facilities [623],Operating revenue,Dollars,81,millions,6,v114809269,7.1.1,3420.8,,,,1
+2014,Ontario,2016A000235,Nursing and residential care facilities [623],Operating expenses,Dollars,81,millions,6,v114809270,7.1.2,3325.7,,,,1
+2014,Ontario,2016A000235,Nursing and residential care facilities [623],"Salaries, wages, commissions and benefits",Dollars,81,millions,6,v114809271,7.1.3,2505.5,,,,1
+2014,Ontario,2016A000235,Nursing and residential care facilities [623],Operating surplus or deficit,Dollars,81,millions,6,v114809272,7.1.4,95.1,,,,1
+2014,Manitoba,2016A000246,Nursing and residential care facilities [623],Operating revenue,Dollars,81,millions,6,v114809273,8.1.1,996.1,,,,1
+2014,Manitoba,2016A000246,Nursing and residential care facilities [623],Operating expenses,Dollars,81,millions,6,v114809274,8.1.2,1000.6,,,,1
+2014,Manitoba,2016A000246,Nursing and residential care facilities [623],"Salaries, wages, commissions and benefits",Dollars,81,millions,6,v114809275,8.1.3,793.6,,,,1
+2014,Manitoba,2016A000246,Nursing and residential care facilities [623],Operating surplus or deficit,Dollars,81,millions,6,v114809276,8.1.4,-4.6,,,,1
+2014,Saskatchewan,2016A000247,Nursing and residential care facilities [623],Operating revenue,Dollars,81,millions,6,v114809277,9.1.1,999.9,,,,1
+2014,Saskatchewan,2016A000247,Nursing and residential care facilities [623],Operating expenses,Dollars,81,millions,6,v114809278,9.1.2,970.6,,,,1
+2014,Saskatchewan,2016A000247,Nursing and residential care facilities [623],"Salaries, wages, commissions and benefits",Dollars,81,millions,6,v114809279,9.1.3,738.3,,,,1
+2014,Saskatchewan,2016A000247,Nursing and residential care facilities [623],Operating surplus or deficit,Dollars,81,millions,6,v114809280,9.1.4,29.3,,,,1
+2014,Alberta,2016A000248,Nursing and residential care facilities [623],Operating revenue,Dollars,81,millions,6,v114809281,10.1.1,1901.1,,,,1
+2014,Alberta,2016A000248,Nursing and residential care facilities [623],Operating expenses,Dollars,81,millions,6,v114809282,10.1.2,1923.5,,,,1
+2014,Alberta,2016A000248,Nursing and residential care facilities [623],"Salaries, wages, commissions and benefits",Dollars,81,millions,6,v114809283,10.1.3,1412.1,,,,1
+2014,Alberta,2016A000248,Nursing and residential care facilities [623],Operating surplus or deficit,Dollars,81,millions,6,v114809284,10.1.4,-22.4,,,,1
+2014,British Columbia,2016A000259,Nursing and residential care facilities [623],Operating revenue,Dollars,81,millions,6,v114809285,11.1.1,1568,,,,1
+2014,British Columbia,2016A000259,Nursing and residential care facilities [623],Operating expenses,Dollars,81,millions,6,v114809286,11.1.2,1493.7,,,,1
+2014,British Columbia,2016A000259,Nursing and residential care facilities [623],"Salaries, wages, commissions and benefits",Dollars,81,millions,6,v114809287,11.1.3,1048.1,,,,1
+2014,British Columbia,2016A000259,Nursing and residential care facilities [623],Operating surplus or deficit,Dollars,81,millions,6,v114809288,11.1.4,74.3,,,,1
+2014,Yukon,2016A000260,Nursing and residential care facilities [623],Operating revenue,Dollars,81,millions,6,v114809289,12.1.1,30.4,,,,1
+2014,Yukon,2016A000260,Nursing and residential care facilities [623],Operating expenses,Dollars,81,millions,6,v114809290,12.1.2,31.7,,,,1
+2014,Yukon,2016A000260,Nursing and residential care facilities [623],"Salaries, wages, commissions and benefits",Dollars,81,millions,6,v114809291,12.1.3,26,,,,1
+2014,Yukon,2016A000260,Nursing and residential care facilities [623],Operating surplus or deficit,Dollars,81,millions,6,v114809292,12.1.4,-1.3,,,,1
+2014,Northwest Territories,2016A000261,Nursing and residential care facilities [623],Operating revenue,Dollars,81,millions,6,v114809293,13.1.1,18.9,,,,1
+2014,Northwest Territories,2016A000261,Nursing and residential care facilities [623],Operating expenses,Dollars,81,millions,6,v114809294,13.1.2,19.9,,,,1
+2014,Northwest Territories,2016A000261,Nursing and residential care facilities [623],"Salaries, wages, commissions and benefits",Dollars,81,millions,6,v114809295,13.1.3,14.4,,,,1
+2014,Northwest Territories,2016A000261,Nursing and residential care facilities [623],Operating surplus or deficit,Dollars,81,millions,6,v114809296,13.1.4,-1,,,,1
+2014,Nunavut,2016A000262,Nursing and residential care facilities [623],Operating revenue,Dollars,81,millions,6,v114809297,14.1.1,7.1,,,,1
+2014,Nunavut,2016A000262,Nursing and residential care facilities [623],Operating expenses,Dollars,81,millions,6,v114809298,14.1.2,7.1,,,,1
+2014,Nunavut,2016A000262,Nursing and residential care facilities [623],"Salaries, wages, commissions and benefits",Dollars,81,millions,6,v114809299,14.1.3,5.6,,,,1
+2014,Nunavut,2016A000262,Nursing and residential care facilities [623],Operating surplus or deficit,Dollars,81,millions,6,v114809300,14.1.4,0,,,,1
+2015,Canada,2016A000011124,Nursing and residential care facilities [623],Operating revenue,Dollars,81,millions,6,v114809245,1.1.1,15326.7,,,,1
+2015,Canada,2016A000011124,Nursing and residential care facilities [623],Operating expenses,Dollars,81,millions,6,v114809246,1.1.2,15483.6,,,,1
+2015,Canada,2016A000011124,Nursing and residential care facilities [623],"Salaries, wages, commissions and benefits",Dollars,81,millions,6,v114809247,1.1.3,11621.7,,,,1
+2015,Canada,2016A000011124,Nursing and residential care facilities [623],Operating surplus or deficit,Dollars,81,millions,6,v114809248,1.1.4,-156.8,,,,1
+2015,Newfoundland and Labrador,2016A000210,Nursing and residential care facilities [623],Operating revenue,Dollars,81,millions,6,v114809249,2.1.1,295.1,,,,1
+2015,Newfoundland and Labrador,2016A000210,Nursing and residential care facilities [623],Operating expenses,Dollars,81,millions,6,v114809250,2.1.2,284.5,,,,1
+2015,Newfoundland and Labrador,2016A000210,Nursing and residential care facilities [623],"Salaries, wages, commissions and benefits",Dollars,81,millions,6,v114809251,2.1.3,234,,,,1
+2015,Newfoundland and Labrador,2016A000210,Nursing and residential care facilities [623],Operating surplus or deficit,Dollars,81,millions,6,v114809252,2.1.4,10.6,,,,1
+2015,Prince Edward Island,2016A000211,Nursing and residential care facilities [623],Operating revenue,Dollars,81,millions,6,v114809253,3.1.1,109.6,,,,1
+2015,Prince Edward Island,2016A000211,Nursing and residential care facilities [623],Operating expenses,Dollars,81,millions,6,v114809254,3.1.2,117.6,,,,1
+2015,Prince Edward Island,2016A000211,Nursing and residential care facilities [623],"Salaries, wages, commissions and benefits",Dollars,81,millions,6,v114809255,3.1.3,101,,,,1
+2015,Prince Edward Island,2016A000211,Nursing and residential care facilities [623],Operating surplus or deficit,Dollars,81,millions,6,v114809256,3.1.4,-8,,,,1
+2015,Nova Scotia,2016A000212,Nursing and residential care facilities [623],Operating revenue,Dollars,81,millions,6,v114809257,4.1.1,717.2,,,,1
+2015,Nova Scotia,2016A000212,Nursing and residential care facilities [623],Operating expenses,Dollars,81,millions,6,v114809258,4.1.2,704.3,,,,1
+2015,Nova Scotia,2016A000212,Nursing and residential care facilities [623],"Salaries, wages, commissions and benefits",Dollars,81,millions,6,v114809259,4.1.3,602.3,,,,1
+2015,Nova Scotia,2016A000212,Nursing and residential care facilities [623],Operating surplus or deficit,Dollars,81,millions,6,v114809260,4.1.4,13,,,,1
+2015,New Brunswick,2016A000213,Nursing and residential care facilities [623],Operating revenue,Dollars,81,millions,6,v114809261,5.1.1,410.6,,,,1
+2015,New Brunswick,2016A000213,Nursing and residential care facilities [623],Operating expenses,Dollars,81,millions,6,v114809262,5.1.2,442.7,,,,1
+2015,New Brunswick,2016A000213,Nursing and residential care facilities [623],"Salaries, wages, commissions and benefits",Dollars,81,millions,6,v114809263,5.1.3,339.8,,,,1
+2015,New Brunswick,2016A000213,Nursing and residential care facilities [623],Operating surplus or deficit,Dollars,81,millions,6,v114809264,5.1.4,-32.1,,,,1
+2015,Quebec,2016A000224,Nursing and residential care facilities [623],Operating revenue,Dollars,81,millions,6,v114809265,6.1.1,4488,,,,1
+2015,Quebec,2016A000224,Nursing and residential care facilities [623],Operating expenses,Dollars,81,millions,6,v114809266,6.1.2,4539.7,,,,1
+2015,Quebec,2016A000224,Nursing and residential care facilities [623],"Salaries, wages, commissions and benefits",Dollars,81,millions,6,v114809267,6.1.3,3243.4,,,,1
+2015,Quebec,2016A000224,Nursing and residential care facilities [623],Operating surplus or deficit,Dollars,81,millions,6,v114809268,6.1.4,-51.7,,,,1
+2015,Ontario,2016A000235,Nursing and residential care facilities [623],Operating revenue,Dollars,81,millions,6,v114809269,7.1.1,3542.2,,,,1
+2015,Ontario,2016A000235,Nursing and residential care facilities [623],Operating expenses,Dollars,81,millions,6,v114809270,7.1.2,3547.5,,,,1
+2015,Ontario,2016A000235,Nursing and residential care facilities [623],"Salaries, wages, commissions and benefits",Dollars,81,millions,6,v114809271,7.1.3,2707,,,,1
+2015,Ontario,2016A000235,Nursing and residential care facilities [623],Operating surplus or deficit,Dollars,81,millions,6,v114809272,7.1.4,-5.3,,,,1
+2015,Manitoba,2016A000246,Nursing and residential care facilities [623],Operating revenue,Dollars,81,millions,6,v114809273,8.1.1,1030.5,,,,1
+2015,Manitoba,2016A000246,Nursing and residential care facilities [623],Operating expenses,Dollars,81,millions,6,v114809274,8.1.2,1075.6,,,,1
+2015,Manitoba,2016A000246,Nursing and residential care facilities [623],"Salaries, wages, commissions and benefits",Dollars,81,millions,6,v114809275,8.1.3,861.5,,,,1
+2015,Manitoba,2016A000246,Nursing and residential care facilities [623],Operating surplus or deficit,Dollars,81,millions,6,v114809276,8.1.4,-45.2,,,,1
+2015,Saskatchewan,2016A000247,Nursing and residential care facilities [623],Operating revenue,Dollars,81,millions,6,v114809277,9.1.1,1036.9,,,,1
+2015,Saskatchewan,2016A000247,Nursing and residential care facilities [623],Operating expenses,Dollars,81,millions,6,v114809278,9.1.2,1070.6,,,,1
+2015,Saskatchewan,2016A000247,Nursing and residential care facilities [623],"Salaries, wages, commissions and benefits",Dollars,81,millions,6,v114809279,9.1.3,833.7,,,,1
+2015,Saskatchewan,2016A000247,Nursing and residential care facilities [623],Operating surplus or deficit,Dollars,81,millions,6,v114809280,9.1.4,-33.7,,,,1
+2015,Alberta,2016A000248,Nursing and residential care facilities [623],Operating revenue,Dollars,81,millions,6,v114809281,10.1.1,2043.6,,,,1
+2015,Alberta,2016A000248,Nursing and residential care facilities [623],Operating expenses,Dollars,81,millions,6,v114809282,10.1.2,2089.9,,,,1
+2015,Alberta,2016A000248,Nursing and residential care facilities [623],"Salaries, wages, commissions and benefits",Dollars,81,millions,6,v114809283,10.1.3,1561.2,,,,1
+2015,Alberta,2016A000248,Nursing and residential care facilities [623],Operating surplus or deficit,Dollars,81,millions,6,v114809284,10.1.4,-46.4,,,,1
+2015,British Columbia,2016A000259,Nursing and residential care facilities [623],Operating revenue,Dollars,81,millions,6,v114809285,11.1.1,1595.6,,,,1
+2015,British Columbia,2016A000259,Nursing and residential care facilities [623],Operating expenses,Dollars,81,millions,6,v114809286,11.1.2,1548.9,,,,1
+2015,British Columbia,2016A000259,Nursing and residential care facilities [623],"Salaries, wages, commissions and benefits",Dollars,81,millions,6,v114809287,11.1.3,1089.5,,,,1
+2015,British Columbia,2016A000259,Nursing and residential care facilities [623],Operating surplus or deficit,Dollars,81,millions,6,v114809288,11.1.4,46.8,,,,1
+2015,Yukon,2016A000260,Nursing and residential care facilities [623],Operating revenue,Dollars,81,millions,6,v114809289,12.1.1,30,,,,1
+2015,Yukon,2016A000260,Nursing and residential care facilities [623],Operating expenses,Dollars,81,millions,6,v114809290,12.1.2,33.2,,,,1
+2015,Yukon,2016A000260,Nursing and residential care facilities [623],"Salaries, wages, commissions and benefits",Dollars,81,millions,6,v114809291,12.1.3,26.6,,,,1
+2015,Yukon,2016A000260,Nursing and residential care facilities [623],Operating surplus or deficit,Dollars,81,millions,6,v114809292,12.1.4,-3.2,,,,1
+2015,Northwest Territories,2016A000261,Nursing and residential care facilities [623],Operating revenue,Dollars,81,millions,6,v114809293,13.1.1,20.2,,,,1
+2015,Northwest Territories,2016A000261,Nursing and residential care facilities [623],Operating expenses,Dollars,81,millions,6,v114809294,13.1.2,21.8,,,,1
+2015,Northwest Territories,2016A000261,Nursing and residential care facilities [623],"Salaries, wages, commissions and benefits",Dollars,81,millions,6,v114809295,13.1.3,16.1,,,,1
+2015,Northwest Territories,2016A000261,Nursing and residential care facilities [623],Operating surplus or deficit,Dollars,81,millions,6,v114809296,13.1.4,-1.6,,,,1
+2015,Nunavut,2016A000262,Nursing and residential care facilities [623],Operating revenue,Dollars,81,millions,6,v114809297,14.1.1,7.3,,,,1
+2015,Nunavut,2016A000262,Nursing and residential care facilities [623],Operating expenses,Dollars,81,millions,6,v114809298,14.1.2,7.3,,,,1
+2015,Nunavut,2016A000262,Nursing and residential care facilities [623],"Salaries, wages, commissions and benefits",Dollars,81,millions,6,v114809299,14.1.3,5.7,,,,1
+2015,Nunavut,2016A000262,Nursing and residential care facilities [623],Operating surplus or deficit,Dollars,81,millions,6,v114809300,14.1.4,0,,,,1
+2016,Canada,2016A000011124,Nursing and residential care facilities [623],Operating revenue,Dollars,81,millions,6,v114809245,1.1.1,15676.2,,,,1
+2016,Canada,2016A000011124,Nursing and residential care facilities [623],Operating expenses,Dollars,81,millions,6,v114809246,1.1.2,15779.8,,,,1
+2016,Canada,2016A000011124,Nursing and residential care facilities [623],"Salaries, wages, commissions and benefits",Dollars,81,millions,6,v114809247,1.1.3,11806.4,,,,1
+2016,Canada,2016A000011124,Nursing and residential care facilities [623],Operating surplus or deficit,Dollars,81,millions,6,v114809248,1.1.4,-103.6,,,,1
+2016,Newfoundland and Labrador,2016A000210,Nursing and residential care facilities [623],Operating revenue,Dollars,81,millions,6,v114809249,2.1.1,303.9,,,,1
+2016,Newfoundland and Labrador,2016A000210,Nursing and residential care facilities [623],Operating expenses,Dollars,81,millions,6,v114809250,2.1.2,286.4,,,,1
+2016,Newfoundland and Labrador,2016A000210,Nursing and residential care facilities [623],"Salaries, wages, commissions and benefits",Dollars,81,millions,6,v114809251,2.1.3,234.2,,,,1
+2016,Newfoundland and Labrador,2016A000210,Nursing and residential care facilities [623],Operating surplus or deficit,Dollars,81,millions,6,v114809252,2.1.4,17.5,,,,1
+2016,Prince Edward Island,2016A000211,Nursing and residential care facilities [623],Operating revenue,Dollars,81,millions,6,v114809253,3.1.1,112.5,,,,1
+2016,Prince Edward Island,2016A000211,Nursing and residential care facilities [623],Operating expenses,Dollars,81,millions,6,v114809254,3.1.2,119.5,,,,1
+2016,Prince Edward Island,2016A000211,Nursing and residential care facilities [623],"Salaries, wages, commissions and benefits",Dollars,81,millions,6,v114809255,3.1.3,102.4,,,,1
+2016,Prince Edward Island,2016A000211,Nursing and residential care facilities [623],Operating surplus or deficit,Dollars,81,millions,6,v114809256,3.1.4,-6.9,,,,1
+2016,Nova Scotia,2016A000212,Nursing and residential care facilities [623],Operating revenue,Dollars,81,millions,6,v114809257,4.1.1,702.9,,,,1
+2016,Nova Scotia,2016A000212,Nursing and residential care facilities [623],Operating expenses,Dollars,81,millions,6,v114809258,4.1.2,702.9,,,,1
+2016,Nova Scotia,2016A000212,Nursing and residential care facilities [623],"Salaries, wages, commissions and benefits",Dollars,81,millions,6,v114809259,4.1.3,600,,,,1
+2016,Nova Scotia,2016A000212,Nursing and residential care facilities [623],Operating surplus or deficit,Dollars,81,millions,6,v114809260,4.1.4,0,,,,1
+2016,New Brunswick,2016A000213,Nursing and residential care facilities [623],Operating revenue,Dollars,81,millions,6,v114809261,5.1.1,425.8,,,,1
+2016,New Brunswick,2016A000213,Nursing and residential care facilities [623],Operating expenses,Dollars,81,millions,6,v114809262,5.1.2,449.7,,,,1
+2016,New Brunswick,2016A000213,Nursing and residential care facilities [623],"Salaries, wages, commissions and benefits",Dollars,81,millions,6,v114809263,5.1.3,346.1,,,,1
+2016,New Brunswick,2016A000213,Nursing and residential care facilities [623],Operating surplus or deficit,Dollars,81,millions,6,v114809264,5.1.4,-23.9,,,,1
+2016,Quebec,2016A000224,Nursing and residential care facilities [623],Operating revenue,Dollars,81,millions,6,v114809265,6.1.1,4685.2,,,,1
+2016,Quebec,2016A000224,Nursing and residential care facilities [623],Operating expenses,Dollars,81,millions,6,v114809266,6.1.2,4666.5,,,,1
+2016,Quebec,2016A000224,Nursing and residential care facilities [623],"Salaries, wages, commissions and benefits",Dollars,81,millions,6,v114809267,6.1.3,3337.7,,,,1
+2016,Quebec,2016A000224,Nursing and residential care facilities [623],Operating surplus or deficit,Dollars,81,millions,6,v114809268,6.1.4,18.6,,,,1
+2016,Ontario,2016A000235,Nursing and residential care facilities [623],Operating revenue,Dollars,81,millions,6,v114809269,7.1.1,3643.4,,,,1
+2016,Ontario,2016A000235,Nursing and residential care facilities [623],Operating expenses,Dollars,81,millions,6,v114809270,7.1.2,3610,,,,1
+2016,Ontario,2016A000235,Nursing and residential care facilities [623],"Salaries, wages, commissions and benefits",Dollars,81,millions,6,v114809271,7.1.3,2724.4,,,,1
+2016,Ontario,2016A000235,Nursing and residential care facilities [623],Operating surplus or deficit,Dollars,81,millions,6,v114809272,7.1.4,33.5,,,,1
+2016,Manitoba,2016A000246,Nursing and residential care facilities [623],Operating revenue,Dollars,81,millions,6,v114809273,8.1.1,1046.2,,,,1
+2016,Manitoba,2016A000246,Nursing and residential care facilities [623],Operating expenses,Dollars,81,millions,6,v114809274,8.1.2,1089.7,,,,1
+2016,Manitoba,2016A000246,Nursing and residential care facilities [623],"Salaries, wages, commissions and benefits",Dollars,81,millions,6,v114809275,8.1.3,865.9,,,,1
+2016,Manitoba,2016A000246,Nursing and residential care facilities [623],Operating surplus or deficit,Dollars,81,millions,6,v114809276,8.1.4,-43.5,,,,1
+2016,Saskatchewan,2016A000247,Nursing and residential care facilities [623],Operating revenue,Dollars,81,millions,6,v114809277,9.1.1,1037,,,,1
+2016,Saskatchewan,2016A000247,Nursing and residential care facilities [623],Operating expenses,Dollars,81,millions,6,v114809278,9.1.2,1070.9,,,,1
+2016,Saskatchewan,2016A000247,Nursing and residential care facilities [623],"Salaries, wages, commissions and benefits",Dollars,81,millions,6,v114809279,9.1.3,834.2,,,,1
+2016,Saskatchewan,2016A000247,Nursing and residential care facilities [623],Operating surplus or deficit,Dollars,81,millions,6,v114809280,9.1.4,-33.9,,,,1
+2016,Alberta,2016A000248,Nursing and residential care facilities [623],Operating revenue,Dollars,81,millions,6,v114809281,10.1.1,2010.3,,,,1
+2016,Alberta,2016A000248,Nursing and residential care facilities [623],Operating expenses,Dollars,81,millions,6,v114809282,10.1.2,2102.3,,,,1
+2016,Alberta,2016A000248,Nursing and residential care facilities [623],"Salaries, wages, commissions and benefits",Dollars,81,millions,6,v114809283,10.1.3,1569.2,,,,1
+2016,Alberta,2016A000248,Nursing and residential care facilities [623],Operating surplus or deficit,Dollars,81,millions,6,v114809284,10.1.4,-92,,,,1
+2016,British Columbia,2016A000259,Nursing and residential care facilities [623],Operating revenue,Dollars,81,millions,6,v114809285,11.1.1,1648.3,,,,1
+2016,British Columbia,2016A000259,Nursing and residential care facilities [623],Operating expenses,Dollars,81,millions,6,v114809286,11.1.2,1617.6,,,,1
+2016,British Columbia,2016A000259,Nursing and residential care facilities [623],"Salaries, wages, commissions and benefits",Dollars,81,millions,6,v114809287,11.1.3,1140.9,,,,1
+2016,British Columbia,2016A000259,Nursing and residential care facilities [623],Operating surplus or deficit,Dollars,81,millions,6,v114809288,11.1.4,30.7,,,,1
+2016,Yukon,2016A000260,Nursing and residential care facilities [623],Operating revenue,Dollars,81,millions,6,v114809289,12.1.1,31.9,,,,1
+2016,Yukon,2016A000260,Nursing and residential care facilities [623],Operating expenses,Dollars,81,millions,6,v114809290,12.1.2,34.2,,,,1
+2016,Yukon,2016A000260,Nursing and residential care facilities [623],"Salaries, wages, commissions and benefits",Dollars,81,millions,6,v114809291,12.1.3,28.9,,,,1
+2016,Yukon,2016A000260,Nursing and residential care facilities [623],Operating surplus or deficit,Dollars,81,millions,6,v114809292,12.1.4,-2.4,,,,1
+2016,Northwest Territories,2016A000261,Nursing and residential care facilities [623],Operating revenue,Dollars,81,millions,6,v114809293,13.1.1,21.1,,,,1
+2016,Northwest Territories,2016A000261,Nursing and residential care facilities [623],Operating expenses,Dollars,81,millions,6,v114809294,13.1.2,22.3,,,,1
+2016,Northwest Territories,2016A000261,Nursing and residential care facilities [623],"Salaries, wages, commissions and benefits",Dollars,81,millions,6,v114809295,13.1.3,16.6,,,,1
+2016,Northwest Territories,2016A000261,Nursing and residential care facilities [623],Operating surplus or deficit,Dollars,81,millions,6,v114809296,13.1.4,-1.3,,,,1
+2016,Nunavut,2016A000262,Nursing and residential care facilities [623],Operating revenue,Dollars,81,millions,6,v114809297,14.1.1,7.7,,,,1
+2016,Nunavut,2016A000262,Nursing and residential care facilities [623],Operating expenses,Dollars,81,millions,6,v114809298,14.1.2,7.7,,,,1
+2016,Nunavut,2016A000262,Nursing and residential care facilities [623],"Salaries, wages, commissions and benefits",Dollars,81,millions,6,v114809299,14.1.3,6.1,,,,1
+2016,Nunavut,2016A000262,Nursing and residential care facilities [623],Operating surplus or deficit,Dollars,81,millions,6,v114809300,14.1.4,0,,,,1
+2017,Canada,2016A000011124,Nursing and residential care facilities [623],Operating revenue,Dollars,81,millions,6,v114809245,1.1.1,16341.2,,,,1
+2017,Canada,2016A000011124,Nursing and residential care facilities [623],Operating expenses,Dollars,81,millions,6,v114809246,1.1.2,16391.7,,,,1
+2017,Canada,2016A000011124,Nursing and residential care facilities [623],"Salaries, wages, commissions and benefits",Dollars,81,millions,6,v114809247,1.1.3,12120.9,,,,1
+2017,Canada,2016A000011124,Nursing and residential care facilities [623],Operating surplus or deficit,Dollars,81,millions,6,v114809248,1.1.4,-50.5,,,,1
+2017,Newfoundland and Labrador,2016A000210,Nursing and residential care facilities [623],Operating revenue,Dollars,81,millions,6,v114809249,2.1.1,301.2,,,,1
+2017,Newfoundland and Labrador,2016A000210,Nursing and residential care facilities [623],Operating expenses,Dollars,81,millions,6,v114809250,2.1.2,292.8,,,,1
+2017,Newfoundland and Labrador,2016A000210,Nursing and residential care facilities [623],"Salaries, wages, commissions and benefits",Dollars,81,millions,6,v114809251,2.1.3,236.8,,,,1
+2017,Newfoundland and Labrador,2016A000210,Nursing and residential care facilities [623],Operating surplus or deficit,Dollars,81,millions,6,v114809252,2.1.4,8.4,,,,1
+2017,Prince Edward Island,2016A000211,Nursing and residential care facilities [623],Operating revenue,Dollars,81,millions,6,v114809253,3.1.1,118.4,,,,1
+2017,Prince Edward Island,2016A000211,Nursing and residential care facilities [623],Operating expenses,Dollars,81,millions,6,v114809254,3.1.2,122.9,,,,1
+2017,Prince Edward Island,2016A000211,Nursing and residential care facilities [623],"Salaries, wages, commissions and benefits",Dollars,81,millions,6,v114809255,3.1.3,104,,,,1
+2017,Prince Edward Island,2016A000211,Nursing and residential care facilities [623],Operating surplus or deficit,Dollars,81,millions,6,v114809256,3.1.4,-4.5,,,,1
+2017,Nova Scotia,2016A000212,Nursing and residential care facilities [623],Operating revenue,Dollars,81,millions,6,v114809257,4.1.1,709.6,,,,1
+2017,Nova Scotia,2016A000212,Nursing and residential care facilities [623],Operating expenses,Dollars,81,millions,6,v114809258,4.1.2,724.7,,,,1
+2017,Nova Scotia,2016A000212,Nursing and residential care facilities [623],"Salaries, wages, commissions and benefits",Dollars,81,millions,6,v114809259,4.1.3,620,,,,1
+2017,Nova Scotia,2016A000212,Nursing and residential care facilities [623],Operating surplus or deficit,Dollars,81,millions,6,v114809260,4.1.4,-15.1,,,,1
+2017,New Brunswick,2016A000213,Nursing and residential care facilities [623],Operating revenue,Dollars,81,millions,6,v114809261,5.1.1,438.8,,,,1
+2017,New Brunswick,2016A000213,Nursing and residential care facilities [623],Operating expenses,Dollars,81,millions,6,v114809262,5.1.2,461,,,,1
+2017,New Brunswick,2016A000213,Nursing and residential care facilities [623],"Salaries, wages, commissions and benefits",Dollars,81,millions,6,v114809263,5.1.3,355.9,,,,1
+2017,New Brunswick,2016A000213,Nursing and residential care facilities [623],Operating surplus or deficit,Dollars,81,millions,6,v114809264,5.1.4,-22.2,,,,1
+2017,Quebec,2016A000224,Nursing and residential care facilities [623],Operating revenue,Dollars,81,millions,6,v114809265,6.1.1,5046.1,,,,1
+2017,Quebec,2016A000224,Nursing and residential care facilities [623],Operating expenses,Dollars,81,millions,6,v114809266,6.1.2,5044.3,,,,1
+2017,Quebec,2016A000224,Nursing and residential care facilities [623],"Salaries, wages, commissions and benefits",Dollars,81,millions,6,v114809267,6.1.3,3482.4,,,,1
+2017,Quebec,2016A000224,Nursing and residential care facilities [623],Operating surplus or deficit,Dollars,81,millions,6,v114809268,6.1.4,1.9,,,,1
+2017,Ontario,2016A000235,Nursing and residential care facilities [623],Operating revenue,Dollars,81,millions,6,v114809269,7.1.1,3672.3,,,,1
+2017,Ontario,2016A000235,Nursing and residential care facilities [623],Operating expenses,Dollars,81,millions,6,v114809270,7.1.2,3679.1,,,,1
+2017,Ontario,2016A000235,Nursing and residential care facilities [623],"Salaries, wages, commissions and benefits",Dollars,81,millions,6,v114809271,7.1.3,2784.4,,,,1
+2017,Ontario,2016A000235,Nursing and residential care facilities [623],Operating surplus or deficit,Dollars,81,millions,6,v114809272,7.1.4,-6.8,,,,1
+2017,Manitoba,2016A000246,Nursing and residential care facilities [623],Operating revenue,Dollars,81,millions,6,v114809273,8.1.1,1037.5,,,,1
+2017,Manitoba,2016A000246,Nursing and residential care facilities [623],Operating expenses,Dollars,81,millions,6,v114809274,8.1.2,1093.7,,,,1
+2017,Manitoba,2016A000246,Nursing and residential care facilities [623],"Salaries, wages, commissions and benefits",Dollars,81,millions,6,v114809275,8.1.3,871.1,,,,1
+2017,Manitoba,2016A000246,Nursing and residential care facilities [623],Operating surplus or deficit,Dollars,81,millions,6,v114809276,8.1.4,-56.2,,,,1
+2017,Saskatchewan,2016A000247,Nursing and residential care facilities [623],Operating revenue,Dollars,81,millions,6,v114809277,9.1.1,1072.3,,,,1
+2017,Saskatchewan,2016A000247,Nursing and residential care facilities [623],Operating expenses,Dollars,81,millions,6,v114809278,9.1.2,1080.7,,,,1
+2017,Saskatchewan,2016A000247,Nursing and residential care facilities [623],"Salaries, wages, commissions and benefits",Dollars,81,millions,6,v114809279,9.1.3,847.9,,,,1
+2017,Saskatchewan,2016A000247,Nursing and residential care facilities [623],Operating surplus or deficit,Dollars,81,millions,6,v114809280,9.1.4,-8.4,,,,1
+2017,Alberta,2016A000248,Nursing and residential care facilities [623],Operating revenue,Dollars,81,millions,6,v114809281,10.1.1,2168.9,,,,1
+2017,Alberta,2016A000248,Nursing and residential care facilities [623],Operating expenses,Dollars,81,millions,6,v114809282,10.1.2,2152.8,,,,1
+2017,Alberta,2016A000248,Nursing and residential care facilities [623],"Salaries, wages, commissions and benefits",Dollars,81,millions,6,v114809283,10.1.3,1601.9,,,,1
+2017,Alberta,2016A000248,Nursing and residential care facilities [623],Operating surplus or deficit,Dollars,81,millions,6,v114809284,10.1.4,16.2,,,,1
+2017,British Columbia,2016A000259,Nursing and residential care facilities [623],Operating revenue,Dollars,81,millions,6,v114809285,11.1.1,1713,,,,1
+2017,British Columbia,2016A000259,Nursing and residential care facilities [623],Operating expenses,Dollars,81,millions,6,v114809286,11.1.2,1673.8,,,,1
+2017,British Columbia,2016A000259,Nursing and residential care facilities [623],"Salaries, wages, commissions and benefits",Dollars,81,millions,6,v114809287,11.1.3,1163.2,,,,1
+2017,British Columbia,2016A000259,Nursing and residential care facilities [623],Operating surplus or deficit,Dollars,81,millions,6,v114809288,11.1.4,39.3,,,,1
+2017,Yukon,2016A000260,Nursing and residential care facilities [623],Operating revenue,Dollars,81,millions,6,v114809289,12.1.1,33.5,,,,1
+2017,Yukon,2016A000260,Nursing and residential care facilities [623],Operating expenses,Dollars,81,millions,6,v114809290,12.1.2,36,,,,1
+2017,Yukon,2016A000260,Nursing and residential care facilities [623],"Salaries, wages, commissions and benefits",Dollars,81,millions,6,v114809291,12.1.3,30.6,,,,1
+2017,Yukon,2016A000260,Nursing and residential care facilities [623],Operating surplus or deficit,Dollars,81,millions,6,v114809292,12.1.4,-2.5,,,,1
+2017,Northwest Territories,2016A000261,Nursing and residential care facilities [623],Operating revenue,Dollars,81,millions,6,v114809293,13.1.1,22.3,,,,1
+2017,Northwest Territories,2016A000261,Nursing and residential care facilities [623],Operating expenses,Dollars,81,millions,6,v114809294,13.1.2,22.8,,,,1
+2017,Northwest Territories,2016A000261,Nursing and residential care facilities [623],"Salaries, wages, commissions and benefits",Dollars,81,millions,6,v114809295,13.1.3,16.7,,,,1
+2017,Northwest Territories,2016A000261,Nursing and residential care facilities [623],Operating surplus or deficit,Dollars,81,millions,6,v114809296,13.1.4,-0.6,,,,1
+2017,Nunavut,2016A000262,Nursing and residential care facilities [623],Operating revenue,Dollars,81,millions,6,v114809297,14.1.1,7.3,,,,1
+2017,Nunavut,2016A000262,Nursing and residential care facilities [623],Operating expenses,Dollars,81,millions,6,v114809298,14.1.2,7.3,,,,1
+2017,Nunavut,2016A000262,Nursing and residential care facilities [623],"Salaries, wages, commissions and benefits",Dollars,81,millions,6,v114809299,14.1.3,5.8,,,,1
+2017,Nunavut,2016A000262,Nursing and residential care facilities [623],Operating surplus or deficit,Dollars,81,millions,6,v114809300,14.1.4,0,,,,1
+2018,Canada,2016A000011124,Nursing and residential care facilities [623],Operating revenue,Dollars,81,millions,6,v114809245,1.1.1,16979,,,,1
+2018,Canada,2016A000011124,Nursing and residential care facilities [623],Operating expenses,Dollars,81,millions,6,v114809246,1.1.2,17161.9,,,,1
+2018,Canada,2016A000011124,Nursing and residential care facilities [623],"Salaries, wages, commissions and benefits",Dollars,81,millions,6,v114809247,1.1.3,12652.8,,,,1
+2018,Canada,2016A000011124,Nursing and residential care facilities [623],Operating surplus or deficit,Dollars,81,millions,6,v114809248,1.1.4,-182.8,,,,1
+2018,Newfoundland and Labrador,2016A000210,Nursing and residential care facilities [623],Operating revenue,Dollars,81,millions,6,v114809249,2.1.1,320.1,,,,1
+2018,Newfoundland and Labrador,2016A000210,Nursing and residential care facilities [623],Operating expenses,Dollars,81,millions,6,v114809250,2.1.2,312.2,,,,1
+2018,Newfoundland and Labrador,2016A000210,Nursing and residential care facilities [623],"Salaries, wages, commissions and benefits",Dollars,81,millions,6,v114809251,2.1.3,253.5,,,,1
+2018,Newfoundland and Labrador,2016A000210,Nursing and residential care facilities [623],Operating surplus or deficit,Dollars,81,millions,6,v114809252,2.1.4,7.8,,,,1
+2018,Prince Edward Island,2016A000211,Nursing and residential care facilities [623],Operating revenue,Dollars,81,millions,6,v114809253,3.1.1,124.9,,,,1
+2018,Prince Edward Island,2016A000211,Nursing and residential care facilities [623],Operating expenses,Dollars,81,millions,6,v114809254,3.1.2,127.5,,,,1
+2018,Prince Edward Island,2016A000211,Nursing and residential care facilities [623],"Salaries, wages, commissions and benefits",Dollars,81,millions,6,v114809255,3.1.3,107.6,,,,1
+2018,Prince Edward Island,2016A000211,Nursing and residential care facilities [623],Operating surplus or deficit,Dollars,81,millions,6,v114809256,3.1.4,-2.6,,,,1
+2018,Nova Scotia,2016A000212,Nursing and residential care facilities [623],Operating revenue,Dollars,81,millions,6,v114809257,4.1.1,730.6,,,,1
+2018,Nova Scotia,2016A000212,Nursing and residential care facilities [623],Operating expenses,Dollars,81,millions,6,v114809258,4.1.2,765,,,,1
+2018,Nova Scotia,2016A000212,Nursing and residential care facilities [623],"Salaries, wages, commissions and benefits",Dollars,81,millions,6,v114809259,4.1.3,654.7,,,,1
+2018,Nova Scotia,2016A000212,Nursing and residential care facilities [623],Operating surplus or deficit,Dollars,81,millions,6,v114809260,4.1.4,-34.5,,,,1
+2018,New Brunswick,2016A000213,Nursing and residential care facilities [623],Operating revenue,Dollars,81,millions,6,v114809261,5.1.1,456.7,,,,1
+2018,New Brunswick,2016A000213,Nursing and residential care facilities [623],Operating expenses,Dollars,81,millions,6,v114809262,5.1.2,473.4,,,,1
+2018,New Brunswick,2016A000213,Nursing and residential care facilities [623],"Salaries, wages, commissions and benefits",Dollars,81,millions,6,v114809263,5.1.3,362.1,,,,1
+2018,New Brunswick,2016A000213,Nursing and residential care facilities [623],Operating surplus or deficit,Dollars,81,millions,6,v114809264,5.1.4,-16.7,,,,1
+2018,Quebec,2016A000224,Nursing and residential care facilities [623],Operating revenue,Dollars,81,millions,6,v114809265,6.1.1,5328.6,,,,1
+2018,Quebec,2016A000224,Nursing and residential care facilities [623],Operating expenses,Dollars,81,millions,6,v114809266,6.1.2,5367.1,,,,1
+2018,Quebec,2016A000224,Nursing and residential care facilities [623],"Salaries, wages, commissions and benefits",Dollars,81,millions,6,v114809267,6.1.3,3689.4,,,,1
+2018,Quebec,2016A000224,Nursing and residential care facilities [623],Operating surplus or deficit,Dollars,81,millions,6,v114809268,6.1.4,-38.4,,,,1
+2018,Ontario,2016A000235,Nursing and residential care facilities [623],Operating revenue,Dollars,81,millions,6,v114809269,7.1.1,3803.7,,,,1
+2018,Ontario,2016A000235,Nursing and residential care facilities [623],Operating expenses,Dollars,81,millions,6,v114809270,7.1.2,3836,,,,1
+2018,Ontario,2016A000235,Nursing and residential care facilities [623],"Salaries, wages, commissions and benefits",Dollars,81,millions,6,v114809271,7.1.3,2904.1,,,,1
+2018,Ontario,2016A000235,Nursing and residential care facilities [623],Operating surplus or deficit,Dollars,81,millions,6,v114809272,7.1.4,-32.3,,,,1
+2018,Manitoba,2016A000246,Nursing and residential care facilities [623],Operating revenue,Dollars,81,millions,6,v114809273,8.1.1,1034.2,,,,1
+2018,Manitoba,2016A000246,Nursing and residential care facilities [623],Operating expenses,Dollars,81,millions,6,v114809274,8.1.2,1107.7,,,,1
+2018,Manitoba,2016A000246,Nursing and residential care facilities [623],"Salaries, wages, commissions and benefits",Dollars,81,millions,6,v114809275,8.1.3,879.6,,,,1
+2018,Manitoba,2016A000246,Nursing and residential care facilities [623],Operating surplus or deficit,Dollars,81,millions,6,v114809276,8.1.4,-73.5,,,,1
+2018,Saskatchewan,2016A000247,Nursing and residential care facilities [623],Operating revenue,Dollars,81,millions,6,v114809277,9.1.1,1104.7,,,,1
+2018,Saskatchewan,2016A000247,Nursing and residential care facilities [623],Operating expenses,Dollars,81,millions,6,v114809278,9.1.2,1122.5,,,,1
+2018,Saskatchewan,2016A000247,Nursing and residential care facilities [623],"Salaries, wages, commissions and benefits",Dollars,81,millions,6,v114809279,9.1.3,875.7,,,,1
+2018,Saskatchewan,2016A000247,Nursing and residential care facilities [623],Operating surplus or deficit,Dollars,81,millions,6,v114809280,9.1.4,-17.7,,,,1
+2018,Alberta,2016A000248,Nursing and residential care facilities [623],Operating revenue,Dollars,81,millions,6,v114809281,10.1.1,2250.2,,,,1
+2018,Alberta,2016A000248,Nursing and residential care facilities [623],Operating expenses,Dollars,81,millions,6,v114809282,10.1.2,2235.1,,,,1
+2018,Alberta,2016A000248,Nursing and residential care facilities [623],"Salaries, wages, commissions and benefits",Dollars,81,millions,6,v114809283,10.1.3,1656.5,,,,1
+2018,Alberta,2016A000248,Nursing and residential care facilities [623],Operating surplus or deficit,Dollars,81,millions,6,v114809284,10.1.4,15,,,,1
+2018,British Columbia,2016A000259,Nursing and residential care facilities [623],Operating revenue,Dollars,81,millions,6,v114809285,11.1.1,1757.1,,,,1
+2018,British Columbia,2016A000259,Nursing and residential care facilities [623],Operating expenses,Dollars,81,millions,6,v114809286,11.1.2,1745.9,,,,1
+2018,British Columbia,2016A000259,Nursing and residential care facilities [623],"Salaries, wages, commissions and benefits",Dollars,81,millions,6,v114809287,11.1.3,1214.3,,,,1
+2018,British Columbia,2016A000259,Nursing and residential care facilities [623],Operating surplus or deficit,Dollars,81,millions,6,v114809288,11.1.4,11.1,,,,1
+2018,Yukon,2016A000260,Nursing and residential care facilities [623],Operating revenue,Dollars,81,millions,6,v114809289,12.1.1,35.5,,,,1
+2018,Yukon,2016A000260,Nursing and residential care facilities [623],Operating expenses,Dollars,81,millions,6,v114809290,12.1.2,38.1,,,,1
+2018,Yukon,2016A000260,Nursing and residential care facilities [623],"Salaries, wages, commissions and benefits",Dollars,81,millions,6,v114809291,12.1.3,32.2,,,,1
+2018,Yukon,2016A000260,Nursing and residential care facilities [623],Operating surplus or deficit,Dollars,81,millions,6,v114809292,12.1.4,-2.6,,,,1
+2018,Northwest Territories,2016A000261,Nursing and residential care facilities [623],Operating revenue,Dollars,81,millions,6,v114809293,13.1.1,25.2,,,,1
+2018,Northwest Territories,2016A000261,Nursing and residential care facilities [623],Operating expenses,Dollars,81,millions,6,v114809294,13.1.2,23.6,,,,1
+2018,Northwest Territories,2016A000261,Nursing and residential care facilities [623],"Salaries, wages, commissions and benefits",Dollars,81,millions,6,v114809295,13.1.3,17,,,,1
+2018,Northwest Territories,2016A000261,Nursing and residential care facilities [623],Operating surplus or deficit,Dollars,81,millions,6,v114809296,13.1.4,1.5,,,,1
+2018,Nunavut,2016A000262,Nursing and residential care facilities [623],Operating revenue,Dollars,81,millions,6,v114809297,14.1.1,7.6,,,,1
+2018,Nunavut,2016A000262,Nursing and residential care facilities [623],Operating expenses,Dollars,81,millions,6,v114809298,14.1.2,7.6,,,,1
+2018,Nunavut,2016A000262,Nursing and residential care facilities [623],"Salaries, wages, commissions and benefits",Dollars,81,millions,6,v114809299,14.1.3,6,,,,1
+2018,Nunavut,2016A000262,Nursing and residential care facilities [623],Operating surplus or deficit,Dollars,81,millions,6,v114809300,14.1.4,0,,,,1
+2019,Canada,2016A000011124,Nursing and residential care facilities [623],Operating revenue,Dollars,81,millions,6,v114809245,1.1.1,17761.4,,,,1
+2019,Canada,2016A000011124,Nursing and residential care facilities [623],Operating expenses,Dollars,81,millions,6,v114809246,1.1.2,18008.6,,,,1
+2019,Canada,2016A000011124,Nursing and residential care facilities [623],"Salaries, wages, commissions and benefits",Dollars,81,millions,6,v114809247,1.1.3,13317.6,,,,1
+2019,Canada,2016A000011124,Nursing and residential care facilities [623],Operating surplus or deficit,Dollars,81,millions,6,v114809248,1.1.4,-247.2,,,,1
+2019,Newfoundland and Labrador,2016A000210,Nursing and residential care facilities [623],Operating revenue,Dollars,81,millions,6,v114809249,2.1.1,315.5,,,,1
+2019,Newfoundland and Labrador,2016A000210,Nursing and residential care facilities [623],Operating expenses,Dollars,81,millions,6,v114809250,2.1.2,318.8,,,,1
+2019,Newfoundland and Labrador,2016A000210,Nursing and residential care facilities [623],"Salaries, wages, commissions and benefits",Dollars,81,millions,6,v114809251,2.1.3,255.6,,,,1
+2019,Newfoundland and Labrador,2016A000210,Nursing and residential care facilities [623],Operating surplus or deficit,Dollars,81,millions,6,v114809252,2.1.4,-3.3,,,,1
+2019,Prince Edward Island,2016A000211,Nursing and residential care facilities [623],Operating revenue,Dollars,81,millions,6,v114809253,3.1.1,135.3,,,,1
+2019,Prince Edward Island,2016A000211,Nursing and residential care facilities [623],Operating expenses,Dollars,81,millions,6,v114809254,3.1.2,133.8,,,,1
+2019,Prince Edward Island,2016A000211,Nursing and residential care facilities [623],"Salaries, wages, commissions and benefits",Dollars,81,millions,6,v114809255,3.1.3,114.4,,,,1
+2019,Prince Edward Island,2016A000211,Nursing and residential care facilities [623],Operating surplus or deficit,Dollars,81,millions,6,v114809256,3.1.4,1.5,,,,1
+2019,Nova Scotia,2016A000212,Nursing and residential care facilities [623],Operating revenue,Dollars,81,millions,6,v114809257,4.1.1,741.1,,,,1
+2019,Nova Scotia,2016A000212,Nursing and residential care facilities [623],Operating expenses,Dollars,81,millions,6,v114809258,4.1.2,800.2,,,,1
+2019,Nova Scotia,2016A000212,Nursing and residential care facilities [623],"Salaries, wages, commissions and benefits",Dollars,81,millions,6,v114809259,4.1.3,680.8,,,,1
+2019,Nova Scotia,2016A000212,Nursing and residential care facilities [623],Operating surplus or deficit,Dollars,81,millions,6,v114809260,4.1.4,-59.1,,,,1
+2019,New Brunswick,2016A000213,Nursing and residential care facilities [623],Operating revenue,Dollars,81,millions,6,v114809261,5.1.1,470.4,,,,1
+2019,New Brunswick,2016A000213,Nursing and residential care facilities [623],Operating expenses,Dollars,81,millions,6,v114809262,5.1.2,487.5,,,,1
+2019,New Brunswick,2016A000213,Nursing and residential care facilities [623],"Salaries, wages, commissions and benefits",Dollars,81,millions,6,v114809263,5.1.3,367.6,,,,1
+2019,New Brunswick,2016A000213,Nursing and residential care facilities [623],Operating surplus or deficit,Dollars,81,millions,6,v114809264,5.1.4,-17.1,,,,1
+2019,Quebec,2016A000224,Nursing and residential care facilities [623],Operating revenue,Dollars,81,millions,6,v114809265,6.1.1,5635,,,,1
+2019,Quebec,2016A000224,Nursing and residential care facilities [623],Operating expenses,Dollars,81,millions,6,v114809266,6.1.2,5745,,,,1
+2019,Quebec,2016A000224,Nursing and residential care facilities [623],"Salaries, wages, commissions and benefits",Dollars,81,millions,6,v114809267,6.1.3,3999.2,,,,1
+2019,Quebec,2016A000224,Nursing and residential care facilities [623],Operating surplus or deficit,Dollars,81,millions,6,v114809268,6.1.4,-110,,,,1
+2019,Ontario,2016A000235,Nursing and residential care facilities [623],Operating revenue,Dollars,81,millions,6,v114809269,7.1.1,3960.2,,,,1
+2019,Ontario,2016A000235,Nursing and residential care facilities [623],Operating expenses,Dollars,81,millions,6,v114809270,7.1.2,3960.8,,,,1
+2019,Ontario,2016A000235,Nursing and residential care facilities [623],"Salaries, wages, commissions and benefits",Dollars,81,millions,6,v114809271,7.1.3,3006.6,,,,1
+2019,Ontario,2016A000235,Nursing and residential care facilities [623],Operating surplus or deficit,Dollars,81,millions,6,v114809272,7.1.4,-0.6,,,,1
+2019,Manitoba,2016A000246,Nursing and residential care facilities [623],Operating revenue,Dollars,81,millions,6,v114809273,8.1.1,1058,,,,1
+2019,Manitoba,2016A000246,Nursing and residential care facilities [623],Operating expenses,Dollars,81,millions,6,v114809274,8.1.2,1157.6,,,,1
+2019,Manitoba,2016A000246,Nursing and residential care facilities [623],"Salaries, wages, commissions and benefits",Dollars,81,millions,6,v114809275,8.1.3,898.5,,,,1
+2019,Manitoba,2016A000246,Nursing and residential care facilities [623],Operating surplus or deficit,Dollars,81,millions,6,v114809276,8.1.4,-99.6,,,,1
+2019,Saskatchewan,2016A000247,Nursing and residential care facilities [623],Operating revenue,Dollars,81,millions,6,v114809277,9.1.1,1154.5,,,,1
+2019,Saskatchewan,2016A000247,Nursing and residential care facilities [623],Operating expenses,Dollars,81,millions,6,v114809278,9.1.2,1158.4,,,,1
+2019,Saskatchewan,2016A000247,Nursing and residential care facilities [623],"Salaries, wages, commissions and benefits",Dollars,81,millions,6,v114809279,9.1.3,910.4,,,,1
+2019,Saskatchewan,2016A000247,Nursing and residential care facilities [623],Operating surplus or deficit,Dollars,81,millions,6,v114809280,9.1.4,-3.9,,,,1
+2019,Alberta,2016A000248,Nursing and residential care facilities [623],Operating revenue,Dollars,81,millions,6,v114809281,10.1.1,2319,,,,1
+2019,Alberta,2016A000248,Nursing and residential care facilities [623],Operating expenses,Dollars,81,millions,6,v114809282,10.1.2,2299.3,,,,1
+2019,Alberta,2016A000248,Nursing and residential care facilities [623],"Salaries, wages, commissions and benefits",Dollars,81,millions,6,v114809283,10.1.3,1697.4,,,,1
+2019,Alberta,2016A000248,Nursing and residential care facilities [623],Operating surplus or deficit,Dollars,81,millions,6,v114809284,10.1.4,19.7,,,,1
+2019,British Columbia,2016A000259,Nursing and residential care facilities [623],Operating revenue,Dollars,81,millions,6,v114809285,11.1.1,1876.6,,,,1
+2019,British Columbia,2016A000259,Nursing and residential care facilities [623],Operating expenses,Dollars,81,millions,6,v114809286,11.1.2,1852.7,,,,1
+2019,British Columbia,2016A000259,Nursing and residential care facilities [623],"Salaries, wages, commissions and benefits",Dollars,81,millions,6,v114809287,11.1.3,1311.6,,,,1
+2019,British Columbia,2016A000259,Nursing and residential care facilities [623],Operating surplus or deficit,Dollars,81,millions,6,v114809288,11.1.4,23.9,,,,1
+2019,Yukon,2016A000260,Nursing and residential care facilities [623],Operating revenue,Dollars,81,millions,6,v114809289,12.1.1,60.7,,,,1
+2019,Yukon,2016A000260,Nursing and residential care facilities [623],Operating expenses,Dollars,81,millions,6,v114809290,12.1.2,60.6,,,,1
+2019,Yukon,2016A000260,Nursing and residential care facilities [623],"Salaries, wages, commissions and benefits",Dollars,81,millions,6,v114809291,12.1.3,52.5,,,,1
+2019,Yukon,2016A000260,Nursing and residential care facilities [623],Operating surplus or deficit,Dollars,81,millions,6,v114809292,12.1.4,0.1,,,,1
+2019,Northwest Territories,2016A000261,Nursing and residential care facilities [623],Operating revenue,Dollars,81,millions,6,v114809293,13.1.1,27.6,,,,1
+2019,Northwest Territories,2016A000261,Nursing and residential care facilities [623],Operating expenses,Dollars,81,millions,6,v114809294,13.1.2,26.3,,,,1
+2019,Northwest Territories,2016A000261,Nursing and residential care facilities [623],"Salaries, wages, commissions and benefits",Dollars,81,millions,6,v114809295,13.1.3,17.2,,,,1
+2019,Northwest Territories,2016A000261,Nursing and residential care facilities [623],Operating surplus or deficit,Dollars,81,millions,6,v114809296,13.1.4,1.3,,,,1
+2019,Nunavut,2016A000262,Nursing and residential care facilities [623],Operating revenue,Dollars,81,millions,6,v114809297,14.1.1,7.5,,,,1
+2019,Nunavut,2016A000262,Nursing and residential care facilities [623],Operating expenses,Dollars,81,millions,6,v114809298,14.1.2,7.6,,,,1
+2019,Nunavut,2016A000262,Nursing and residential care facilities [623],"Salaries, wages, commissions and benefits",Dollars,81,millions,6,v114809299,14.1.3,5.8,,,,1
+2019,Nunavut,2016A000262,Nursing and residential care facilities [623],Operating surplus or deficit,Dollars,81,millions,6,v114809300,14.1.4,-0.1,,,,1
+2020,Canada,2016A000011124,Nursing and residential care facilities [623],Operating revenue,Dollars,81,millions,6,v114809245,1.1.1,19444.3,,,,1
+2020,Canada,2016A000011124,Nursing and residential care facilities [623],Operating expenses,Dollars,81,millions,6,v114809246,1.1.2,20322.5,,,,1
+2020,Canada,2016A000011124,Nursing and residential care facilities [623],"Salaries, wages, commissions and benefits",Dollars,81,millions,6,v114809247,1.1.3,14960,,,,1
+2020,Canada,2016A000011124,Nursing and residential care facilities [623],Operating surplus or deficit,Dollars,81,millions,6,v114809248,1.1.4,-878.2,,,,1
+2020,Newfoundland and Labrador,2016A000210,Nursing and residential care facilities [623],Operating revenue,Dollars,81,millions,6,v114809249,2.1.1,308.1,,,,1
+2020,Newfoundland and Labrador,2016A000210,Nursing and residential care facilities [623],Operating expenses,Dollars,81,millions,6,v114809250,2.1.2,324.7,,,,1
+2020,Newfoundland and Labrador,2016A000210,Nursing and residential care facilities [623],"Salaries, wages, commissions and benefits",Dollars,81,millions,6,v114809251,2.1.3,257.2,,,,1
+2020,Newfoundland and Labrador,2016A000210,Nursing and residential care facilities [623],Operating surplus or deficit,Dollars,81,millions,6,v114809252,2.1.4,-16.6,,,,1
+2020,Prince Edward Island,2016A000211,Nursing and residential care facilities [623],Operating revenue,Dollars,81,millions,6,v114809253,3.1.1,135.9,,,,1
+2020,Prince Edward Island,2016A000211,Nursing and residential care facilities [623],Operating expenses,Dollars,81,millions,6,v114809254,3.1.2,155,,,,1
+2020,Prince Edward Island,2016A000211,Nursing and residential care facilities [623],"Salaries, wages, commissions and benefits",Dollars,81,millions,6,v114809255,3.1.3,135.2,,,,1
+2020,Prince Edward Island,2016A000211,Nursing and residential care facilities [623],Operating surplus or deficit,Dollars,81,millions,6,v114809256,3.1.4,-19.1,,,,1
+2020,Nova Scotia,2016A000212,Nursing and residential care facilities [623],Operating revenue,Dollars,81,millions,6,v114809257,4.1.1,762,,,,1
+2020,Nova Scotia,2016A000212,Nursing and residential care facilities [623],Operating expenses,Dollars,81,millions,6,v114809258,4.1.2,847.1,,,,1
+2020,Nova Scotia,2016A000212,Nursing and residential care facilities [623],"Salaries, wages, commissions and benefits",Dollars,81,millions,6,v114809259,4.1.3,727.8,,,,1
+2020,Nova Scotia,2016A000212,Nursing and residential care facilities [623],Operating surplus or deficit,Dollars,81,millions,6,v114809260,4.1.4,-85.1,,,,1
+2020,New Brunswick,2016A000213,Nursing and residential care facilities [623],Operating revenue,Dollars,81,millions,6,v114809261,5.1.1,477.2,,,,1
+2020,New Brunswick,2016A000213,Nursing and residential care facilities [623],Operating expenses,Dollars,81,millions,6,v114809262,5.1.2,520.1,,,,1
+2020,New Brunswick,2016A000213,Nursing and residential care facilities [623],"Salaries, wages, commissions and benefits",Dollars,81,millions,6,v114809263,5.1.3,402.5,,,,1
+2020,New Brunswick,2016A000213,Nursing and residential care facilities [623],Operating surplus or deficit,Dollars,81,millions,6,v114809264,5.1.4,-42.9,,,,1
+2020,Quebec,2016A000224,Nursing and residential care facilities [623],Operating revenue,Dollars,81,millions,6,v114809265,6.1.1,6639,,,,1
+2020,Quebec,2016A000224,Nursing and residential care facilities [623],Operating expenses,Dollars,81,millions,6,v114809266,6.1.2,6809.5,,,,1
+2020,Quebec,2016A000224,Nursing and residential care facilities [623],"Salaries, wages, commissions and benefits",Dollars,81,millions,6,v114809267,6.1.3,4604,,,,1
+2020,Quebec,2016A000224,Nursing and residential care facilities [623],Operating surplus or deficit,Dollars,81,millions,6,v114809268,6.1.4,-170.5,,,,1
+2020,Ontario,2016A000235,Nursing and residential care facilities [623],Operating revenue,Dollars,81,millions,6,v114809269,7.1.1,4122.3,,,,1
+2020,Ontario,2016A000235,Nursing and residential care facilities [623],Operating expenses,Dollars,81,millions,6,v114809270,7.1.2,4490.3,,,,1
+2020,Ontario,2016A000235,Nursing and residential care facilities [623],"Salaries, wages, commissions and benefits",Dollars,81,millions,6,v114809271,7.1.3,3507.2,,,,1
+2020,Ontario,2016A000235,Nursing and residential care facilities [623],Operating surplus or deficit,Dollars,81,millions,6,v114809272,7.1.4,-368,,,,1
+2020,Manitoba,2016A000246,Nursing and residential care facilities [623],Operating revenue,Dollars,81,millions,6,v114809273,8.1.1,1164,,,,1
+2020,Manitoba,2016A000246,Nursing and residential care facilities [623],Operating expenses,Dollars,81,millions,6,v114809274,8.1.2,1237.1,,,,1
+2020,Manitoba,2016A000246,Nursing and residential care facilities [623],"Salaries, wages, commissions and benefits",Dollars,81,millions,6,v114809275,8.1.3,950.9,,,,1
+2020,Manitoba,2016A000246,Nursing and residential care facilities [623],Operating surplus or deficit,Dollars,81,millions,6,v114809276,8.1.4,-73.1,,,,1
+2020,Saskatchewan,2016A000247,Nursing and residential care facilities [623],Operating revenue,Dollars,81,millions,6,v114809277,9.1.1,1174.8,,,,1
+2020,Saskatchewan,2016A000247,Nursing and residential care facilities [623],Operating expenses,Dollars,81,millions,6,v114809278,9.1.2,1247.5,,,,1
+2020,Saskatchewan,2016A000247,Nursing and residential care facilities [623],"Salaries, wages, commissions and benefits",Dollars,81,millions,6,v114809279,9.1.3,977.7,,,,1
+2020,Saskatchewan,2016A000247,Nursing and residential care facilities [623],Operating surplus or deficit,Dollars,81,millions,6,v114809280,9.1.4,-72.7,,,,1
+2020,Alberta,2016A000248,Nursing and residential care facilities [623],Operating revenue,Dollars,81,millions,6,v114809281,10.1.1,2459.1,,,,1
+2020,Alberta,2016A000248,Nursing and residential care facilities [623],Operating expenses,Dollars,81,millions,6,v114809282,10.1.2,2460.5,,,,1
+2020,Alberta,2016A000248,Nursing and residential care facilities [623],"Salaries, wages, commissions and benefits",Dollars,81,millions,6,v114809283,10.1.3,1791.7,,,,1
+2020,Alberta,2016A000248,Nursing and residential care facilities [623],Operating surplus or deficit,Dollars,81,millions,6,v114809284,10.1.4,-1.4,,,,1
+2020,British Columbia,2016A000259,Nursing and residential care facilities [623],Operating revenue,Dollars,81,millions,6,v114809285,11.1.1,2104,,,,1
+2020,British Columbia,2016A000259,Nursing and residential care facilities [623],Operating expenses,Dollars,81,millions,6,v114809286,11.1.2,2131.4,,,,1
+2020,British Columbia,2016A000259,Nursing and residential care facilities [623],"Salaries, wages, commissions and benefits",Dollars,81,millions,6,v114809287,11.1.3,1527.3,,,,1
+2020,British Columbia,2016A000259,Nursing and residential care facilities [623],Operating surplus or deficit,Dollars,81,millions,6,v114809288,11.1.4,-27.4,,,,1
+2020,Yukon,2016A000260,Nursing and residential care facilities [623],Operating revenue,Dollars,81,millions,6,v114809289,12.1.1,62.4,,,,1
+2020,Yukon,2016A000260,Nursing and residential care facilities [623],Operating expenses,Dollars,81,millions,6,v114809290,12.1.2,62.4,,,,1
+2020,Yukon,2016A000260,Nursing and residential care facilities [623],"Salaries, wages, commissions and benefits",Dollars,81,millions,6,v114809291,12.1.3,54.2,,,,1
+2020,Yukon,2016A000260,Nursing and residential care facilities [623],Operating surplus or deficit,Dollars,81,millions,6,v114809292,12.1.4,0,,,,1
+2020,Northwest Territories,2016A000261,Nursing and residential care facilities [623],Operating revenue,Dollars,81,millions,6,v114809293,13.1.1,27.4,,,,1
+2020,Northwest Territories,2016A000261,Nursing and residential care facilities [623],Operating expenses,Dollars,81,millions,6,v114809294,13.1.2,28.8,,,,1
+2020,Northwest Territories,2016A000261,Nursing and residential care facilities [623],"Salaries, wages, commissions and benefits",Dollars,81,millions,6,v114809295,13.1.3,17.6,,,,1
+2020,Northwest Territories,2016A000261,Nursing and residential care facilities [623],Operating surplus or deficit,Dollars,81,millions,6,v114809296,13.1.4,-1.4,,,,1
+2020,Nunavut,2016A000262,Nursing and residential care facilities [623],Operating revenue,Dollars,81,millions,6,v114809297,14.1.1,8.1,,,,1
+2020,Nunavut,2016A000262,Nursing and residential care facilities [623],Operating expenses,Dollars,81,millions,6,v114809298,14.1.2,8.1,,,,1
+2020,Nunavut,2016A000262,Nursing and residential care facilities [623],"Salaries, wages, commissions and benefits",Dollars,81,millions,6,v114809299,14.1.3,6.7,,,,1
+2020,Nunavut,2016A000262,Nursing and residential care facilities [623],Operating surplus or deficit,Dollars,81,millions,6,v114809300,14.1.4,0,,,,1
+2021,Canada,2016A000011124,Nursing and residential care facilities [623],Operating revenue,Dollars,81,millions,6,v114809245,1.1.1,20409.3,,,,1
+2021,Canada,2016A000011124,Nursing and residential care facilities [623],Operating expenses,Dollars,81,millions,6,v114809246,1.1.2,21346.2,,,,1
+2021,Canada,2016A000011124,Nursing and residential care facilities [623],"Salaries, wages, commissions and benefits",Dollars,81,millions,6,v114809247,1.1.3,15681.8,,,,1
+2021,Canada,2016A000011124,Nursing and residential care facilities [623],Operating surplus or deficit,Dollars,81,millions,6,v114809248,1.1.4,-936.9,,,,1
+2021,Newfoundland and Labrador,2016A000210,Nursing and residential care facilities [623],Operating revenue,Dollars,81,millions,6,v114809249,2.1.1,326.3,,,,1
+2021,Newfoundland and Labrador,2016A000210,Nursing and residential care facilities [623],Operating expenses,Dollars,81,millions,6,v114809250,2.1.2,343,,,,1
+2021,Newfoundland and Labrador,2016A000210,Nursing and residential care facilities [623],"Salaries, wages, commissions and benefits",Dollars,81,millions,6,v114809251,2.1.3,267,,,,1
+2021,Newfoundland and Labrador,2016A000210,Nursing and residential care facilities [623],Operating surplus or deficit,Dollars,81,millions,6,v114809252,2.1.4,-16.7,,,,1
+2021,Prince Edward Island,2016A000211,Nursing and residential care facilities [623],Operating revenue,Dollars,81,millions,6,v114809253,3.1.1,142.3,,,,1
+2021,Prince Edward Island,2016A000211,Nursing and residential care facilities [623],Operating expenses,Dollars,81,millions,6,v114809254,3.1.2,165.7,,,,1
+2021,Prince Edward Island,2016A000211,Nursing and residential care facilities [623],"Salaries, wages, commissions and benefits",Dollars,81,millions,6,v114809255,3.1.3,142.4,,,,1
+2021,Prince Edward Island,2016A000211,Nursing and residential care facilities [623],Operating surplus or deficit,Dollars,81,millions,6,v114809256,3.1.4,-23.4,,,,1
+2021,Nova Scotia,2016A000212,Nursing and residential care facilities [623],Operating revenue,Dollars,81,millions,6,v114809257,4.1.1,828.9,,,,1
+2021,Nova Scotia,2016A000212,Nursing and residential care facilities [623],Operating expenses,Dollars,81,millions,6,v114809258,4.1.2,914,,,,1
+2021,Nova Scotia,2016A000212,Nursing and residential care facilities [623],"Salaries, wages, commissions and benefits",Dollars,81,millions,6,v114809259,4.1.3,774.6,,,,1
+2021,Nova Scotia,2016A000212,Nursing and residential care facilities [623],Operating surplus or deficit,Dollars,81,millions,6,v114809260,4.1.4,-85.1,,,,1
+2021,New Brunswick,2016A000213,Nursing and residential care facilities [623],Operating revenue,Dollars,81,millions,6,v114809261,5.1.1,498.6,,,,1
+2021,New Brunswick,2016A000213,Nursing and residential care facilities [623],Operating expenses,Dollars,81,millions,6,v114809262,5.1.2,586.7,,,,1
+2021,New Brunswick,2016A000213,Nursing and residential care facilities [623],"Salaries, wages, commissions and benefits",Dollars,81,millions,6,v114809263,5.1.3,461.8,,,,1
+2021,New Brunswick,2016A000213,Nursing and residential care facilities [623],Operating surplus or deficit,Dollars,81,millions,6,v114809264,5.1.4,-88.1,,,,1
+2021,Quebec,2016A000224,Nursing and residential care facilities [623],Operating revenue,Dollars,81,millions,6,v114809265,6.1.1,6853.9,,,,1
+2021,Quebec,2016A000224,Nursing and residential care facilities [623],Operating expenses,Dollars,81,millions,6,v114809266,6.1.2,7060,,,,1
+2021,Quebec,2016A000224,Nursing and residential care facilities [623],"Salaries, wages, commissions and benefits",Dollars,81,millions,6,v114809267,6.1.3,4770.6,,,,1
+2021,Quebec,2016A000224,Nursing and residential care facilities [623],Operating surplus or deficit,Dollars,81,millions,6,v114809268,6.1.4,-206.1,,,,1
+2021,Ontario,2016A000235,Nursing and residential care facilities [623],Operating revenue,Dollars,81,millions,6,v114809269,7.1.1,4303.4,,,,1
+2021,Ontario,2016A000235,Nursing and residential care facilities [623],Operating expenses,Dollars,81,millions,6,v114809270,7.1.2,4613.5,,,,1
+2021,Ontario,2016A000235,Nursing and residential care facilities [623],"Salaries, wages, commissions and benefits",Dollars,81,millions,6,v114809271,7.1.3,3577.3,,,,1
+2021,Ontario,2016A000235,Nursing and residential care facilities [623],Operating surplus or deficit,Dollars,81,millions,6,v114809272,7.1.4,-310.1,,,,1
+2021,Manitoba,2016A000246,Nursing and residential care facilities [623],Operating revenue,Dollars,81,millions,6,v114809273,8.1.1,1289.2,,,,1
+2021,Manitoba,2016A000246,Nursing and residential care facilities [623],Operating expenses,Dollars,81,millions,6,v114809274,8.1.2,1382.4,,,,1
+2021,Manitoba,2016A000246,Nursing and residential care facilities [623],"Salaries, wages, commissions and benefits",Dollars,81,millions,6,v114809275,8.1.3,1065.9,,,,1
+2021,Manitoba,2016A000246,Nursing and residential care facilities [623],Operating surplus or deficit,Dollars,81,millions,6,v114809276,8.1.4,-93.2,,,,1
+2021,Saskatchewan,2016A000247,Nursing and residential care facilities [623],Operating revenue,Dollars,81,millions,6,v114809277,9.1.1,1208.3,,,,1
+2021,Saskatchewan,2016A000247,Nursing and residential care facilities [623],Operating expenses,Dollars,81,millions,6,v114809278,9.1.2,1315.4,,,,1
+2021,Saskatchewan,2016A000247,Nursing and residential care facilities [623],"Salaries, wages, commissions and benefits",Dollars,81,millions,6,v114809279,9.1.3,1025.2,,,,1
+2021,Saskatchewan,2016A000247,Nursing and residential care facilities [623],Operating surplus or deficit,Dollars,81,millions,6,v114809280,9.1.4,-107.1,,,,1
+2021,Alberta,2016A000248,Nursing and residential care facilities [623],Operating revenue,Dollars,81,millions,6,v114809281,10.1.1,2587.9,,,,1
+2021,Alberta,2016A000248,Nursing and residential care facilities [623],Operating expenses,Dollars,81,millions,6,v114809282,10.1.2,2546.6,,,,1
+2021,Alberta,2016A000248,Nursing and residential care facilities [623],"Salaries, wages, commissions and benefits",Dollars,81,millions,6,v114809283,10.1.3,1852.5,,,,1
+2021,Alberta,2016A000248,Nursing and residential care facilities [623],Operating surplus or deficit,Dollars,81,millions,6,v114809284,10.1.4,41.3,,,,1
+2021,British Columbia,2016A000259,Nursing and residential care facilities [623],Operating revenue,Dollars,81,millions,6,v114809285,11.1.1,2269,,,,1
+2021,British Columbia,2016A000259,Nursing and residential care facilities [623],Operating expenses,Dollars,81,millions,6,v114809286,11.1.2,2317.4,,,,1
+2021,British Columbia,2016A000259,Nursing and residential care facilities [623],"Salaries, wages, commissions and benefits",Dollars,81,millions,6,v114809287,11.1.3,1663.9,,,,1
+2021,British Columbia,2016A000259,Nursing and residential care facilities [623],Operating surplus or deficit,Dollars,81,millions,6,v114809288,11.1.4,-48.4,,,,1
+2021,Yukon,2016A000260,Nursing and residential care facilities [623],Operating revenue,Dollars,81,millions,6,v114809289,12.1.1,64,,,,1
+2021,Yukon,2016A000260,Nursing and residential care facilities [623],Operating expenses,Dollars,81,millions,6,v114809290,12.1.2,62.9,,,,1
+2021,Yukon,2016A000260,Nursing and residential care facilities [623],"Salaries, wages, commissions and benefits",Dollars,81,millions,6,v114809291,12.1.3,54.7,,,,1
+2021,Yukon,2016A000260,Nursing and residential care facilities [623],Operating surplus or deficit,Dollars,81,millions,6,v114809292,12.1.4,1.1,,,,1
+2021,Northwest Territories,2016A000261,Nursing and residential care facilities [623],Operating revenue,Dollars,81,millions,6,v114809293,13.1.1,29,,,,1
+2021,Northwest Territories,2016A000261,Nursing and residential care facilities [623],Operating expenses,Dollars,81,millions,6,v114809294,13.1.2,30.1,,,,1
+2021,Northwest Territories,2016A000261,Nursing and residential care facilities [623],"Salaries, wages, commissions and benefits",Dollars,81,millions,6,v114809295,13.1.3,18.8,,,,1
+2021,Northwest Territories,2016A000261,Nursing and residential care facilities [623],Operating surplus or deficit,Dollars,81,millions,6,v114809296,13.1.4,-1.1,,,,1
+2021,Nunavut,2016A000262,Nursing and residential care facilities [623],Operating revenue,Dollars,81,millions,6,v114809297,14.1.1,8.5,,,,1
+2021,Nunavut,2016A000262,Nursing and residential care facilities [623],Operating expenses,Dollars,81,millions,6,v114809298,14.1.2,8.5,,,,1
+2021,Nunavut,2016A000262,Nursing and residential care facilities [623],"Salaries, wages, commissions and benefits",Dollars,81,millions,6,v114809299,14.1.3,7.1,,,,1
+2021,Nunavut,2016A000262,Nursing and residential care facilities [623],Operating surplus or deficit,Dollars,81,millions,6,v114809300,14.1.4,0,,,,1
